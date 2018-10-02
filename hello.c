@@ -5,6 +5,6 @@
 
 int main(void)
 {
- printf("[%s]Master Branch\n",__func__);
+ printf("[%s]devel/branch1\n",__func__);
  return 0;
 }
